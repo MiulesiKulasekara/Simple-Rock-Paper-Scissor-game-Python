@@ -12,7 +12,7 @@ sntax : <br>def functionName():<br>     return data<br>
 <p>Dictionaries are used for store data values in <b>key value pairs</b>.<br> 
 sntax : <br>dictionaryName = {"key1" : value1 , "key2" : value2}
 
-<u><b>User inputs</b></u>
+<u>User inputs<</u>
 
 <p>Using <b>python inbuilt function called input()</b></p> 
 
