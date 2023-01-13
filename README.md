@@ -39,7 +39,7 @@
 <p>This code is used to find true or false of certain condition. The first matching true condition is executed, considering the supplied conditions in order.</p>
 
 <p>sytax : <br>
-if(condition1):<br>---code---<br>elif(condition2):<br>elif(condition3):<br>else
+if(condition1):<br>---code---<br>elif(condition2):<br>---code---<br>elif(condition3):<br>---code---<br>else<br>---code---<br>
 
 
 
