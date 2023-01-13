@@ -6,7 +6,12 @@
 
 <p>Function is a block of code. It runs when it is called only. In python functions are define using <b>def</b> keyword.<br>
 sntax : <br>def functionName():<br>
-            return data<br>
+                return data<br>
+
+<u><b>Dictionaries</b></u>
+
+<p>Dictionaries are used for store data values in <b>key value pairs</b>.<br> 
+sntax: dictionaryName = {"key1" : value1 , "key2" : value2}
 
 
 
