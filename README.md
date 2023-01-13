@@ -4,7 +4,11 @@
 
 <u><b>Funcions</b></u>
 
-<p>Function is a block of code. It runs when it is called only. In python functions are define using <b>def</b> keyword.
+<p>Function is a block of code. It runs when it is called only. In python functions are define using <b>def</b> keyword.<br>
+sntax : def functionName():
+            return data
+
+
 
 
 
