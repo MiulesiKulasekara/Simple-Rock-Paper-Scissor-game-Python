@@ -1,11 +1,13 @@
 # Simple-Rock-Paper-Scissor-game-Python
 
-<p>This code is about a simple game called Rock Paper Scissor. Python is used for creating this game. The following basic concepts in python are used in the game.</p>
+<p>This code is about a simple game called Rock Paper Scissor. Python is used for creating this game. First you can enter a given option. Then computer randomly selects a another option. According to the both options the winner will be selected.</p>
+
+<p>The following basic concepts in python are used in the game.</p>
 
 <b>Functions</b>
 
 <p>Function is a block of code. It runs when it is called only. In python functions are define using <b>def</b> keyword. We can define functions with or without arguments.<br>
-<p>syntax : <br>def functionName( argument1 , argument2):<br>     return data</p><br>
+<p>syntax : <br>def functionName( argument1 , argument2):<br>     return data</p>
 
 <p>To call a function, function name and parenthesis are used.</p>
 
@@ -28,9 +30,18 @@
 
 <b>Lits</b>
 
-<p>List in python used to store multiple items in single variable.</p><br>
+<p>List in python used to store multiple items in single variable.</p>
 
 <p>syntax : <br>listName = [item1 , item2 , item3]
+
+<b>Else If</b>
+
+<p>This code is used to find true or false of certain condition. The first matching true condition is executed, considering the supplied conditions in order.</p>
+
+<p>sytax : <br>
+if(condition1):<br>elif(condition2):<br>elif(condition3):<br>else
+
+
 
 
 
